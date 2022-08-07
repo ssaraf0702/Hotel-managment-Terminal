@@ -6,7 +6,7 @@ Key features
   -> Well designed interface (Tabulated)
   -> Admin class features include checking the data for a particular date, modifing / updating menu, placing orders etc.
   -> Employee can ony take orders
-  -> self ccreted database system using json and intelligence (A json file based database which works very well in this particular project).
+  -> self created database system using json and intelligence (A json file based database which works very well in this particular project).
   -> a self updating html file for reference menu for the employee (The code will automatically change the html table contens when the availiblity is changed (using open, read,    write file) 
 
 
